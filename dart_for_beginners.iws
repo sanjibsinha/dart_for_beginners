@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa3b6b85-0b66-4330-b936-d9c4d44a885e" name="Default Changelist" comment="" />
+    <list default="true" id="aa3b6b85-0b66-4330-b936-d9c4d44a885e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/dart_for_beginners.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/dart_for_beginners.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dart_for_beginners.iws" beforeDir="false" afterPath="$PROJECT_DIR$/dart_for_beginners.iws" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,13 +17,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1eFUKKBGpzPsxsHDAm6l7dqEF1G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunManager" selected="Dart Command Line App.dependency_injection.dart">
@@ -72,5 +80,21 @@
       <updated>1593916769972</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
